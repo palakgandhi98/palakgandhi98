@@ -16,7 +16,7 @@ My Skills:
 Explore My Projects:
 This repository includes various projects demonstrating my expertise in different areas of AI and Data Science. Feel free to browse through the folders and explore the code.
 Looking to Collaborate?
-I'm always open to collaborating on interesting projects! If you have any questions or suggestions, feel free to reach out to me on [Linkdin](https://www.linkedin.com/in/palakgandhi98/) or [G-mail](palakgandhi98.pg@gmail.com)
+I'm always open to collaborating on interesting projects! If you have any questions or suggestions, feel free to reach out to me on [Linkdin](https://www.linkedin.com/in/palakgandhi98/).
 
 Stay Connected:
  * Follow me on GitHub: [GitHub](https://www.github.com/palakgandhi98)
