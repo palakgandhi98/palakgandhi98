@@ -19,7 +19,7 @@ Looking to Collaborate?
 I'm always open to collaborating on interesting projects! If you have any questions or suggestions, feel free to reach out to me on [Linkdin](https://www.linkedin.com/in/palakgandhi98/).
 
 Stay Connected:
- * Follow me on GitHub: [GitHub](https://www.github.com/palakgandhi98)
- * Connect with me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/palakgandhi98/)
+ * [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](https://www.github.com/palakgandhi98)
+ * [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palakgandhi98)
 
 Let's build something amazing together!
